@@ -1,0 +1,15 @@
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.csproj.AssemblyReference.cache
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.AssemblyInfoInputs.cache
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.AssemblyInfo.cs
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.csproj.CoreCompileInputs.cache
+S:\Clouthes WEB\src\ClouthesShop.Application\bin\Debug\net8.0\ClouthesShop.Application.deps.json
+S:\Clouthes WEB\src\ClouthesShop.Application\bin\Debug\net8.0\ClouthesShop.Application.dll
+S:\Clouthes WEB\src\ClouthesShop.Application\bin\Debug\net8.0\ClouthesShop.Application.pdb
+S:\Clouthes WEB\src\ClouthesShop.Application\bin\Debug\net8.0\ClouthesShop.Domain.dll
+S:\Clouthes WEB\src\ClouthesShop.Application\bin\Debug\net8.0\ClouthesShop.Domain.pdb
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\Clouthes.D743AC78.Up2Date
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.dll
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\refint\ClouthesShop.Application.dll
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ClouthesShop.Application.pdb
+S:\Clouthes WEB\src\ClouthesShop.Application\obj\Debug\net8.0\ref\ClouthesShop.Application.dll

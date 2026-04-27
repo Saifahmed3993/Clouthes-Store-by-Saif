@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClouthesShop.API/ClouthesShop.API.csproj" />
+    <Project Path="src/ClouthesShop.Application/ClouthesShop.Application.csproj" />
+    <Project Path="src/ClouthesShop.Domain/ClouthesShop.Domain.csproj" />
+    <Project Path="src/ClouthesShop.Infrastructure/ClouthesShop.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ClouthesShop.Application.Tests/ClouthesShop.Application.Tests.csproj" />
+    <Project Path="tests/ClouthesShop.Domain.Tests/ClouthesShop.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

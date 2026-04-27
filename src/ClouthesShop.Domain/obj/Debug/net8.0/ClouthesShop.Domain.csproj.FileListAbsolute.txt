@@ -1,0 +1,11 @@
+S:\Clouthes WEB\src\ClouthesShop.Domain\bin\Debug\net8.0\ClouthesShop.Domain.deps.json
+S:\Clouthes WEB\src\ClouthesShop.Domain\bin\Debug\net8.0\ClouthesShop.Domain.dll
+S:\Clouthes WEB\src\ClouthesShop.Domain\bin\Debug\net8.0\ClouthesShop.Domain.pdb
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ClouthesShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ClouthesShop.Domain.AssemblyInfoInputs.cache
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ClouthesShop.Domain.AssemblyInfo.cs
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ClouthesShop.Domain.csproj.CoreCompileInputs.cache
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ClouthesShop.Domain.dll
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\refint\ClouthesShop.Domain.dll
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ClouthesShop.Domain.pdb
+S:\Clouthes WEB\src\ClouthesShop.Domain\obj\Debug\net8.0\ref\ClouthesShop.Domain.dll
